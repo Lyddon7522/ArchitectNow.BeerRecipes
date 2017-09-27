@@ -7,7 +7,7 @@ import { AngularDemoComponent } from './angulardemo/angulardemo.component';
 const routes: Routes = [
     {
         path: '',
-        redirectTo: 'beers',
+        redirectTo: 'beers', 
         pathMatch: 'full'
     },
     {
